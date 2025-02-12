@@ -1,9 +1,7 @@
-B.S. Computer Science
-
+B.S. Computer Science \
 Florida Tech Graduate
 
-It’s a tough galaxy, but somebody’s gotta live in it, and it might as well be you! 
-
+It’s a tough galaxy, but somebody’s gotta live in it, and it might as well be you! \
 -Starstruck
 <!---
 Penguini128/Penguini128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
